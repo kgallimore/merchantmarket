@@ -1,0 +1,5 @@
+/vendor
+/.idea
+config/details.php
+mail.php
+/imageuploads

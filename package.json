@@ -1,0 +1,21 @@
+{
+  "name": "maraudersmarket",
+  "version": "1.0.0",
+  "description": "A market for merchants",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Marauder",
+    "merchant",
+    "market"
+  ],
+  "author": "Marauder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
